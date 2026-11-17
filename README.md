@@ -1,16 +1,19 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://demolab.com" alt="Typing SVG" />
+</div>
 
-<!--
-**qilp95/qilp95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```bash
+┌──(root㉿qilp95)-[~]
+└─# cat /etc/profile_info.txt
 
-Here are some ideas to get you started:
+[USER]     : Muhammad Fatkhul Amin
+[HANDLE]   : @qilp95
+[ROLE]     : Developer / Security Enthusiast
+[STATUS]   : Ready to execute...
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img src="https://vercel.app" alt="GitHub Stats" />
+  <br/>
+  <img src="https://vercel.app" alt="Top Languages" />
+</div>
